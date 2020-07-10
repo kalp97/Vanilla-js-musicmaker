@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{76C7FBC5-BF56-4E77-80CD-F5845CF54E17}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+		index.js = index.js
+		style.css = style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sounds", "sounds", "{DA9F4C4F-DD48-4394-BA66-DE55C4B78D33}"
+	ProjectSection(SolutionItems) = preProject
+		sounds\bubbles.mp3 = sounds\bubbles.mp3
+		sounds\clay.mp3 = sounds\clay.mp3
+		sounds\confetti.mp3 = sounds\confetti.mp3
+		sounds\glimmer.mp3 = sounds\glimmer.mp3
+		sounds\moon.mp3 = sounds\moon.mp3
+		sounds\ufo.mp3 = sounds\ufo.mp3
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6C78DD0-D9C9-40D0-9743-C7902CB4FDFB}
+	EndGlobalSection
+EndGlobal
